@@ -1,0 +1,1283 @@
+.footer-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #262626;
+  width: 1920px;
+  height: 216px;
+}
+.all-rights-reserved,
+.nujan {
+  position: absolute;
+  text-align: left;
+}
+.all-rights-reserved {
+  top: 163.46px;
+  left: calc(50% - 147px);
+  font-size: 20px;
+  letter-spacing: 0.05em;
+  font-family: var(--font-poppins);
+}
+.nujan {
+  top: calc(50% - 40px);
+  left: 90px;
+  font-size: 48px;
+  font-family: var(--font-nico-moji);
+  color: var(--color-greenyellow);
+}
+.appstore {
+  text-decoration: none;
+  position: absolute;
+  top: 66px;
+  left: 765px;
+  width: 180px;
+  height: 53.4px;
+  background-image: url(/public/appstore@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.path14-icon {
+  position: absolute;
+  height: 26.82%;
+  width: 10.52%;
+  top: 29.12%;
+  right: 39.26%;
+  bottom: 44.06%;
+  left: 50.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.about-us,
+.contact-us,
+.privacy,
+.terms {
+  position: absolute;
+  top: 74px;
+  left: 1288px;
+  line-height: 150%;
+  font-weight: 500;
+}
+.contact-us,
+.privacy,
+.terms {
+  left: 1445px;
+}
+.contact-us,
+.privacy {
+  left: 1566px;
+}
+.contact-us {
+  left: 1700px;
+}
+.footer {
+  position: absolute;
+  top: 1200px;
+  left: 0;
+  width: 1920px;
+  height: 216px;
+  text-align: center;
+}
+.co-ol {
+  margin: 0;
+}
+.hey-there-im-container {
+  position: absolute;
+  top: 66.82px;
+  left: calc(50% - 760px);
+  line-height: 350.89px;
+  display: inline-block;
+  white-space: pre-wrap;
+  width: 1720px;
+  -webkit-text-stroke: 3.2px rgba(194, 250, 76, 0.47);
+}
+.the-new {
+  position: absolute;
+  top: 0;
+  left: 21.55px;
+  font-size: 68.97px;
+  font-weight: 600;
+  text-align: center;
+  -webkit-text-stroke: 1.1px #e8e8e8;
+}
+.screen {
+  position: absolute;
+  height: 96.94%;
+  width: 90.62%;
+  top: 1.53%;
+  right: 4.58%;
+  bottom: 1.53%;
+  left: 4.81%;
+  border-radius: 50.24px;
+  background-image: url(/public/screen@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.pink-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.iphone-13 {
+  position: absolute;
+  top: 48.03px;
+  left: calc(50% - 400.87px);
+  width: 379.34px;
+  height: 767.36px;
+}
+.content {
+  position: absolute;
+  top: 244.15px;
+  left: 187.34px;
+  width: 1800px;
+  height: 815.39px;
+  font-size: 413.97px;
+  color: #1e2225;
+}
+.image-1 {
+  text-decoration: none;
+  position: absolute;
+  top: 2.77px;
+  left: 1330px;
+  width: 180px;
+  height: 53.4px;
+  background-image: url(/public/image-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.image-icon {
+  position: absolute;
+  height: 90.37%;
+  width: 11.67%;
+  top: 0;
+  right: 0;
+  bottom: 9.63%;
+  left: 88.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.header,
+.nujan1 {
+  position: absolute;
+  top: 0.1px;
+  left: 0;
+}
+.header {
+  top: 69.9px;
+  left: 100px;
+  width: 1731.23px;
+  height: 64.1px;
+  font-size: 64px;
+  color: var(--color-greenyellow);
+  font-family: var(--font-nico-moji);
+}
+.nujan-landing-page-web-butto {
+  position: relative;
+  background-color: #1a1a1a;
+  width: 100%;
+  height: 1416px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gainsboro);
+  font-family: var(--font-montserrat);
+}
+
+
+@media(max-width:700px){
+  .the-new {
+    position: absolute;
+    top: 0;
+    left: 1.55px;
+    font-size: 68.97px;
+    font-weight: 600;
+    text-align: center;
+    -webkit-text-stroke: 1.1px #e8e8e8;
+    margin-left:-5%;
+    margin-top:-4%;
+  }
+  
+
+}
+
+@media(max-width:680px){
+.hey-there-im-container {
+  position: absolute;
+  top: 66.82px;
+  left: calc(20% - 500px);
+  line-height: 180.89px;
+  display: inline-block;
+  white-space: pre-wrap;
+  /* width: 10px; */
+  margin-top:-1%;
+  -webkit-text-stroke: 3.2px rgba(194, 250, 76, 0.47);
+  margin-left:10%;
+}
+.header,
+.nujan1 {
+  position: absolute;
+  top: 0.1px;
+  font-size:35px;
+  left: 0;
+}
+.content {
+  position: absolute;
+  top: 244.15px;
+  left: 187.34px;
+  width: 1500px;
+  height: 415.39px;
+  font-size: 143.97px;
+  
+  color: #1e2225;
+}
+.iphone-13 {
+  position: absolute;
+  top: 48.03px;
+  left: calc(50% - 900.87px);
+  width: 379.34px;
+  height: 767.36px;
+  margin-left:-15%;
+}
+.image-1 {
+  text-decoration: none;
+  position: absolute;
+  top: 4.77px;
+  left: 600px;
+  width: 60px;
+  height: 23.4px;
+  background-image: url(/public/image-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  /* margin-right:300%; */
+  /* margin-left:-520%; */
+}
+.image-icon {
+  position: absolute;
+  height: 90.37%;
+  width: 11.67%;
+  top: 3.5;
+  right: 0;
+  bottom: 9.63%;
+  left: 30.33%;
+  max-width: 50%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+}
+@media(max-width:1200px){
+  .image-1 {
+    text-decoration: none;
+    position: absolute;
+    top: 2.77px;
+    left: 1130px;
+    width: 180px;
+    height: 53.4px;
+    background-image: url(/public/image-1@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    /* margin-right:300%;
+    margin-left:-520%; */
+  }
+  .image-icon {
+    position: absolute;
+    height: 90.37%;
+    width: 11.67%;
+    top: 3.5;
+    right: 0;
+    bottom: 9.63%;
+    left: 48.33%;
+    max-width: 50%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .header {
+    top: 69.9px;
+    /* left: 10px; */
+    width: 1731.23px;
+    height: 64.1px;
+    font-size: 64px;
+    color: var(--color-greenyellow);
+    font-family: var(--font-nico-moji);
+  }
+}
+@media(max-width:1000px){
+  .image-1 {
+    text-decoration: none;
+    position: absolute;
+    top: 2.77px;
+    left: 1030px;
+    width: 180px;
+    height: 53.4px;
+    background-image: url(/public/image-1@3x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    /* margin-right:300%;
+    margin-left:-520%; */
+  }
+  .image-icon {
+    position: absolute;
+    height: 90.37%;
+    width: 11.67%;
+    top: 3.5;
+    right: 0;
+    bottom: 9.63%;
+    left: 46.33%;
+    max-width: 50%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }}
+
+  @media(max-width:900px){
+    .image-1 {
+      text-decoration: none;
+      position: absolute;
+      top: 2.77px;
+      left: 930px;
+      width: 180px;
+      height: 53.4px;
+      background-image: url(/public/image-1@3x.png);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: top;
+      /* margin-right:300%;
+      margin-left:-520%; */
+    }
+    .image-icon {
+      position: absolute;
+      height: 90.37%;
+      width: 11.67%;
+      top: 3.5;
+      right: 0;
+      bottom: 9.63%;
+      left: 40.33%;
+      max-width: 50%;
+      overflow: hidden;
+      max-height: 100%;
+      object-fit: cover;
+    }}
+
+    @media(max-width:780px){
+      .image-1 {
+        text-decoration: none;
+        position: absolute;
+        top: 2.90px;
+        left: 900px;
+        width: 180px;
+        height: 53.4px;
+        background-image: url(/public/image-1@3x.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: top;
+        /* margin-right:300%;
+        margin-left:-520%; */
+      }
+      .iphone-13 {
+        position: absolute;
+        top: 138.03px;
+        left: calc(70% - 280.87px);
+        width: 379.34px;
+        height: 767.36px;
+        margin-left:-128%;
+      }
+      .image-icon {
+        position: absolute;
+        height: 90.37%;
+        width: 11.67%;
+        top: 3.8;
+        right: 0;
+        bottom: 9.63%;
+        left: 38.33%;
+        max-width: 50%;
+        overflow: hidden;
+        max-height: 100%;
+        object-fit: cover;
+      }
+      .header,
+      .nujan1 {
+        position: absolute;
+        top: 0.1px;
+        font-size:35px;
+        left: 0;
+      }
+    }
+
+      @media(max-width: 400px){
+        
+        
+        .header,
+        .nujan1 {
+          position: absolute;
+          top: 0.1px;
+          margin-top:2%;
+          font-size:35px;
+          left: 0;
+          margin-top:-3%
+        }
+       .the-new {
+        position: absolute;
+        top: 0;
+        left: -140.55px;
+        font-size: 38.97px;
+        font-weight: 300;
+        text-align: center;
+        /* margin-left:-116%; */
+        -webkit-text-stroke: 1.1px #e8e8e8;
+      }
+    
+      .hey-there-im-container {
+        position: absolute;
+        top: 0.82px;
+        left: calc(45% - 780px);
+        line-height: 70.89px;
+        display: inline-block;
+        white-space: pre-wrap;
+        width: -170px;
+        left: -110.55px;
+        
+        -webkit-text-stroke: 3.2px rgba(194, 250, 76, 0.47);
+      }
+      .co-ol {
+        font-size: 90.97px;
+       
+      }
+      .iphone-13 {
+        position: absolute;
+        top: 138.03px;
+        left: calc(50% - 450.87px);
+        width: 379.34px;
+        height: 767.36px;
+        margin-left:-28%;
+      }
+      .nujan {
+        top: calc(50% - 100px);
+        left: 40px;
+        font-size: 43px;
+        font-family: var(--font-nico-moji);
+        color: var(--color-greenyellow);
+      }
+      .all-rights-reserved {
+        top: 170.46px;
+        left: calc(50% - 570px);
+        font-size: 20px;
+        letter-spacing: 0.05em;
+        font-family: var(--font-poppins);
+      }
+      .appstore {
+        text-decoration: none;
+        position: absolute;
+        top: 66px;
+        left: 310px;
+        width: 180px;
+        height: 53.4px;
+        background-image: url(/public/appstore@3x.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: top;
+      }
+      .path14-icon {
+        position: absolute;
+        height: 26.82%;
+        width: 10.52%;
+        top: 29.12%;
+        right: 39.26%;
+        bottom: 44.06%;
+        left: 25.22%;
+        max-width: 100%;
+        overflow: hidden;
+        max-height: 100%;
+        object-fit: cover;
+      }
+      .about-us,
+.contact-us,
+.privacy,
+.terms {
+  position: absolute;
+  top: 130px;
+  left: 360px;
+  line-height: 150%;
+  font-weight: 500;
+}
+.contact-us,
+.privacy,
+.terms {
+  left: 490px;
+}
+.contact-us,
+.privacy {
+  left: 580px;
+}
+.contact-us {
+  left: 660px;
+}
+
+      }
+      @media(max-width:1340px){
+
+
+        .co-ol {
+          margin: 0;
+        }
+        .hey-there-im-container {
+          position: absolute;
+          top: 66.82px;
+          left: calc(50% - 680px);
+          line-height: 350.89px;
+          display: inline-block;
+          white-space: pre-wrap;
+          width: 2920px;
+          font-size:280px;
+          -webkit-text-stroke: 3.2px rgba(194, 250, 76, 0.47);
+        }
+
+        .image-1 {
+          text-decoration: none;
+          position: absolute;
+          top: 2.77px;
+          left: 1130px;
+          width: 180px;
+          height: 53.4px;
+          background-image: url(/public/image-1@3x.png);
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-position: top;
+          /* margin-right:300%;
+          margin-left:-520%; */
+        }
+        .image-icon {
+          position: absolute;
+          height: 90.37%;
+          width: 11.67%;
+          top: 3.5;
+          right: 0;
+          bottom: 9.63%;
+          left: 47.33%;
+          max-width: 50%;
+          overflow: hidden;
+          max-height: 100%;
+          object-fit: cover;
+        }
+        .header {
+          top: 69.9px;
+          /* left: 10px; */
+          width: 1731.23px;
+          height: 64.1px;
+          font-size: 64px;
+          color: var(--color-greenyellow);
+          font-family: var(--font-nico-moji);
+        }
+      }
+      @media(max-width:1015px){
+        .image-1 {
+          text-decoration: none;
+          position: absolute;
+          top: 2.77px;
+          left: 1100px;
+          width: 180px;
+          height: 53.4px;
+          background-image: url(/public/image-1@3x.png);
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-position: top;
+          /* margin-right:300%;
+          margin-left:-520%; */
+        }
+        .co-ol {
+          margin: 0;
+        }
+        .hey-there-im-container {
+          position: absolute;
+          top: 66.82px;
+          left: calc(50% - 780px);
+          line-height: 350.89px;
+          display: inline-block;
+          white-space: pre-wrap;
+          width: 2920px;
+          font-size:240px;
+          -webkit-text-stroke: 3.2px rgba(194, 250, 76, 0.47);
+        }
+        .image-icon {
+          position: absolute;
+          height: 90.37%;
+          width: 11.67%;
+          top: 3.5;
+          right: 0;
+          bottom: 9.63%;
+          left: 48.33%;
+          max-width: 50%;
+          overflow: hidden;
+          max-height: 100%;
+          object-fit: cover;
+        }
+        .header {
+          top: 69.9px;
+          /* left: 10px; */
+          width: 1731.23px;
+          height: 64.1px;
+          font-size: 64px;
+          color: var(--color-greenyellow);
+          font-family: var(--font-nico-moji);
+        }
+      }
+      @media(max-width:970px){
+        .image-1 {
+          text-decoration: none;
+          position: absolute;
+          top: 2.77px;
+          left: 1060px;
+          width: 180px;
+          height: 53.4px;
+          background-image: url(/public/image-1@3x.png);
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-position: top;
+          /* margin-right:300%;
+          margin-left:-520%; */
+        }
+        .iphone-13 {
+          position: absolute;
+          top: 138.03px;
+          left: calc(50% - 150.87px);
+          width: 379.34px;
+          height: 767.36px;
+          margin-left:-28%;
+        }
+        .image-icon {
+          position: absolute;
+          height: 90.37%;
+          width: 11.67%;
+          top: 3.5;
+          right: 0;
+          bottom: 9.63%;
+          left: 48.33%;
+          max-width: 50%;
+          overflow: hidden;
+          max-height: 100%;
+          object-fit: cover;
+        }
+        .header {
+          top: 69.9px;
+          /* left: 10px; */
+          width: 1731.23px;
+          height: 64.1px;
+          font-size: 64px;
+          color: var(--color-greenyellow);
+          font-family: var(--font-nico-moji);
+        }
+      }
+      @media(max-width:930px){
+
+
+         
+
+
+        .image-1 {
+          text-decoration: none;
+          position: absolute;
+          top: 2.77px;
+          left: 960px;
+          width: 180px;
+          height: 53.4px;
+          background-image: url(/public/image-1@3x.png);
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-position: top;
+          /* margin-right:300%;
+          margin-left:-520%; */
+        }
+        .image-icon {
+          position: absolute;
+          height: 90.37%;
+          width: 11.67%;
+          top: 3.5;
+          right: 0;
+          bottom: 9.63%;
+          left: 40.33%;
+          max-width: 50%;
+          overflow: hidden;
+          max-height: 100%;
+          object-fit: cover;
+        }
+        .header {
+          top: 69.9px;
+          /* left: 10px; */
+          width: 1731.23px;
+          height: 64.1px;
+          font-size: 64px;
+          color: var(--color-greenyellow);
+          font-family: var(--font-nico-moji);
+        }
+      }
+      @media(max-width:730px){
+        .co-ol {
+          margin: 0;
+        }
+        .hey-there-im-container {
+          position: absolute;
+          top: 66.82px;
+          left: calc(50% - 850px);
+          line-height: 350.89px;
+          display: inline-block;
+          white-space: pre-wrap;
+          width: 2920px;
+          font-size:230px;
+          -webkit-text-stroke: 3.2px rgba(194, 250, 76, 0.47);
+        }
+        .appstore {
+          text-decoration: none;
+          position: absolute;
+          margin-top:-3%;
+          top: 66px;
+          left: 400px;
+          width: 180px;
+          height: 53.4px;
+          background-image: url(/public/appstore@3x.png);
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-position: top;
+        }
+        .path14-icon {
+          margin-top:-3%;
+          position: absolute;
+          height: 26.82%;
+          width: 10.52%;
+          top: 29.12%;
+          right: 39.26%;
+          bottom: 44.06%;
+          left: 20.22%;
+          max-width: 100%;
+          overflow: hidden;
+          max-height: 100%;
+          object-fit: cover;
+        }
+        .iphone-13 {
+          position: absolute;
+          top: 138.03px;
+          left: calc(50% - 280.87px);
+          width: 379.34px;
+          height: 767.36px;
+          margin-left:-28%;
+          margin-top:5%;
+        }
+        .image-1 {
+          text-decoration: none;
+          position: absolute;
+          top: 5.77px;
+          left: 880px;
+          width: 180px;
+          height: 53.4px;
+          background-image: url(/public/image-1@3x.png);
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-position: top;
+          /* margin-right:300%;
+          margin-left:-520%; */
+        }
+        .image-icon {
+          position: absolute;
+          height: 90.37%;
+          width: 11.67%;
+          top: 5.5;
+          right: 0;
+          bottom: 9.63%;
+          left: 38.33%;
+          max-width: 50%;
+          overflow: hidden;
+          max-height: 100%;
+          object-fit: cover;
+        }
+        .header {
+          top: 69.9px;
+          /* left: 10px; */
+          width: 1731.23px;
+          height: 64.1px;
+          font-size: 64px;
+          color: var(--color-greenyellow);
+          font-family: var(--font-nico-moji);
+        }
+      }
+      @media(max-width:660px){
+        .co-ol {
+          margin: 0;
+        }
+        .hey-there-im-container {
+          position: absolute;
+          top: 66.82px;
+          left: calc(50% - 820px);
+          line-height: 210.89px;
+          display: inline-block;
+          white-space: pre-wrap;
+          width: 2920px;
+          font-size:190px;
+          -webkit-text-stroke: 3.2px rgba(194, 250, 76, 0.47);
+        }
+        .image-1 {
+          text-decoration: none;
+          position: absolute;
+          top: 40.77px;
+          left: 730px;
+          width: 180px;
+          height: 53.4px;
+          background-image: url(/public/image-1@3x.png);
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-position: top;
+          /* margin-right:300%;
+          margin-left:-520%; */
+        }
+        .image-icon {
+          position: absolute;
+          height: 90.37%;
+          width: 11.67%;
+          /* top: 180.5; */
+          right: 0;
+          bottom: 9.63%;
+          left: 28.33%;
+          max-width: 50%;
+          overflow: hidden;
+          max-height: 100%;
+          margin-top:2%;
+          object-fit: cover;
+        }
+        .header {
+          top: 69.9px;
+          /* left: 10px; */
+          width: 1731.23px;
+          height: 64.1px;
+          font-size: 64px;
+          color: var(--color-greenyellow);
+          font-family: var(--font-nico-moji);
+        }
+      }
+      @media(max-width:500px){
+        .image-1 {
+          text-decoration: none;
+          position: absolute;
+          top: 40.77px;
+          left: 640px;
+          width: 180px;
+          height: 53.4px;
+          background-image: url(/public/image-1@3x.png);
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-position: top;
+          /* margin-right:300%;
+          margin-left:-520%; */
+        }
+        .iphone-13 {
+          position: absolute;
+          top: 138.03px;
+          left: calc(50% - 440.87px);
+          width: 379.34px;
+          height: 767.36px;
+          margin-left:-28%;
+        }
+        .the-new {
+          position: absolute;
+          top: 0;
+          left: -182.55px;
+          font-size: 50.97px;
+          font-weight: 600;
+          text-align: center;
+          -webkit-text-stroke: 1.1px #e8e8e8;
+          margin-left:-300%;
+          margin-top:-4%;
+        }
+        .image-icon {
+          position: absolute;
+          height: 90.37%;
+          width: 11.67%;
+          /* top: 180.5; */
+          right: 0;
+          bottom: 9.63%;
+          left: 24.33%;
+          max-width: 50%;
+          overflow: hidden;
+          max-height: 100%;
+          margin-top:2%;
+          object-fit: cover;
+        }
+        .header {
+          top: 69.9px;
+          /* left: 10px; */
+          width: 1731.23px;
+          height: 64.1px;
+          font-size: 64px;
+          color: var(--color-greenyellow);
+          font-family: var(--font-nico-moji);
+        }
+      }
+      @media(max-width:400px){
+        .nujan {
+          top: calc(50% - 100px);
+          left: 40px;
+          font-size: 43px;
+          font-family: var(--font-nico-moji);
+          color: var(--color-greenyellow);
+          margin-top:3%;
+        }
+        .image-1 {
+          text-decoration: none;
+          position: absolute;
+          top: 40.77px;
+          left: 600px;
+          width: 180px;
+          height: 53.4px;
+          background-image: url(/public/image-1@3x.png);
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-position: top;
+          /* margin-right:300%;
+          margin-left:-520%; */
+        }
+     
+        .image-icon {
+          position: absolute;
+          height: 90.37%;
+          width: 11.67%;
+          /* top: 180.5; */
+          right: 0;
+          bottom: 9.63%;
+          left: 22.33%;
+          max-width: 50%;
+          overflow: hidden;
+          max-height: 100%;
+          margin-top:2%;
+          object-fit: cover;
+        }
+        .header {
+          top: 69.9px;
+          /* left: 10px; */
+          width: 1731.23px;
+          height: 64.1px;
+          font-size: 64px;
+          color: var(--color-greenyellow);
+          font-family: var(--font-nico-moji);
+        }
+      }
+      @media(max-width:280px){
+        .image-1 {
+          text-decoration: none;
+          position: absolute;
+          top: 40.77px;
+          left: 500px;
+          width: 180px;
+          height: 53.4px;
+          background-image: url(/public/image-1@3x.png);
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-position: top;
+          margin-top:-3%;
+          /* margin-right:300%;
+          margin-left:-520%; */
+        }
+     
+        .image-icon {
+          position: absolute;
+          height: 90.37%;
+          width: 11.67%;
+          /* top: 180.5; */
+          right: 0;
+          bottom: 9.63%;
+          left: 22.33%;
+          max-width: 50%;
+          overflow: hidden;
+          max-height: 100%;
+          margin-top:3%;
+          object-fit: cover;
+        }
+        .header {
+          top: 69.9px;
+          /* left: 10px; */
+          width: 1731.23px;
+          height: 64.1px;
+          font-size: 64px;
+          color: var(--color-greenyellow);
+          font-family: var(--font-nico-moji);
+        }
+      }
+
+
+      @media(max-width:550px){
+      .iphone-13 {
+        position: absolute;
+        top: 138.03px;
+        left: calc(50% - 410.87px);
+        width: 379.34px;
+        height: 767.36px;
+        margin-left:-28%;
+      }
+    }
+
+    @media(max-width:430px){
+    .iphone-13 {
+      position: absolute;
+      top: 138.03px;
+      left: calc(50% - 440.87px);
+      width: 379.34px;
+      height: 767.36px;
+      margin-left:-28%;
+    }}
+    @media(max-width:400px){
+      .iphone-13 {
+        position: absolute;
+        top: 138.03px;
+        left: calc(50% - 460.87px);
+        width: 349.34px;
+        height: 767.36px;
+        margin-left:-28%;
+      }}
+      @media(max-width:350px){
+        .iphone-13 {
+          position: absolute;
+          top: 138.03px;
+          left: calc(50% - 440.87px);
+          width: 339.34px;
+          height: 747.36px;
+          margin-left:-28%;
+        }
+       }
+       @media(max-width:1440px){
+        .about-us,
+        .contact-us,
+        .privacy,
+        .terms {
+          position: absolute;
+          top: 130px;
+          left: 1230px;
+          line-height: 150%;
+          font-weight: 500;
+        }
+        .contact-us,
+        .privacy,
+        .terms {
+          left: 1370px;
+        }
+        .contact-us,
+        .privacy {
+          left: 1470px;
+        }
+        .contact-us {
+          left: 1570px;
+        }
+       }
+       @media(max-width:1300px){
+        .about-us,
+        .contact-us,
+        .privacy,
+        .terms {
+          position: absolute;
+          top: 130px;
+          left: 700px;
+          line-height: 150%;
+          font-weight: 500;
+        }
+        .contact-us,
+        .privacy,
+        .terms {
+          left: 860px;
+        }
+        .contact-us,
+        .privacy {
+          left: 1000px;
+        }
+        .contact-us {
+          left: 1130px;
+        }
+       }
+       @media(max-width:900px){
+        .appstore {
+          text-decoration: none;
+          position: absolute;
+          top: 66px;
+          left: 610px;
+          width: 180px;
+          height: 53.4px;
+          background-image: url(/public/appstore@3x.png);
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-position: top;
+        }
+        .path14-icon {
+          position: absolute;
+          height: 26.82%;
+          width: 10.52%;
+          top: 29.12%;
+          right: 39.26%;
+          bottom: 44.06%;
+          left: 41.22%;
+          max-width: 100%;
+          overflow: hidden;
+          max-height: 100%;
+          object-fit: cover;
+        }
+        .all-rights-reserved {
+          top: 170.46px;
+          left: calc(50% - 500px);
+          font-size: 20px;
+          letter-spacing: 0.05em;
+          font-family: var(--font-poppins);
+        }
+        .about-us,
+        .contact-us,
+        .privacy,
+        .terms {
+          position: absolute;
+          top: 130px;
+          left: 390px;
+          line-height: 150%;
+          font-weight: 500;
+        }
+        .contact-us,
+        .privacy,
+        .terms {
+          left: 530px;
+        }
+        .contact-us,
+        .privacy {
+          left: 630px;
+        }
+        .contact-us {
+          left: 730px;
+        }
+       }
+       @media(max-width:460px){
+        .co-ol {
+          margin: 0;
+          margin-left:-5%;
+        }
+        .hey-there-im-container {
+          margin-top:-4%;
+          position: absolute;
+          top: 66.82px;
+          left: calc(50% - 850px);
+          line-height: 100.89px;
+          display: inline-block;
+          white-space: pre-wrap;
+          width: 3520px;
+          font-size:100px;
+          -webkit-text-stroke: 3.2px rgba(194, 250, 76, 0.47);
+        }
+
+        .all-rights-reserved {
+          top: 170.46px;
+          left: calc(50% - 580px);
+          font-size: 20px;
+          letter-spacing: 0.05em;
+          font-family: var(--font-poppins);
+        }
+        .about-us,
+        .contact-us,
+        .privacy,
+        .terms {
+          position: absolute;
+          top: 130px;
+          left: 350px;
+          line-height: 150%;
+          font-weight: 500;
+        }
+        .contact-us,
+        .privacy,
+        .terms {
+          left: 470px;
+        }
+        .contact-us,
+        .privacy {
+          left: 560px;
+        }
+        .contact-us {
+          left: 650px;
+        }
+       }
+       @media(max-width:700px){
+        .appstore {
+          text-decoration: none;
+          position: absolute;
+          top: 66px;
+          left: 290px;
+          width: 180px;
+          height: 53.4px;
+          background-image: url(/public/appstore@3x.png);
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-position: top;
+        }
+        .path14-icon {
+          position: absolute;
+          height: 26.82%;
+          width: 10.52%;
+          top: 29.12%;
+          right: 39.26%;
+          bottom: 44.06%;
+          left: 24.22%;
+          max-width: 100%;
+          overflow: hidden;
+          max-height: 100%;
+          object-fit: cover;
+        }}
+
+
+    
+        @media(max-width:620px){
+        .co-ol {
+          margin: 0;
+          margin-left:-5%;
+        }
+        .hey-there-im-container {
+          margin-top:-4%;
+          position: absolute;
+          top: 66.82px;
+          left: calc(50% - 650px);
+          line-height: 100.89px;
+          display: inline-block;
+          white-space: pre-wrap;
+          width: 3520px;
+          font-size:100px;
+          -webkit-text-stroke: 3.2px rgba(194, 250, 76, 0.47);
+        }}
+        @media(max-width:460px){
+          .co-ol {
+            margin: 0;
+            margin-left:-6%;
+          }
+          .hey-there-im-container {
+            margin-top:-4%;
+            position: absolute;
+            top: 66.82px;
+            left: calc(50% - 700px);
+            line-height: 80.89px;
+            display: inline-block;
+            white-space: pre-wrap;
+            width: 4520px;
+            font-size:100px;
+            -webkit-text-stroke: 3.2px rgba(194, 250, 76, 0.47);
+          }
+          .iphone-13 {
+            position: absolute;
+            top: 138.03px;
+            left: calc(50% - 460.87px);
+            width: 349.34px;
+            height: 767.36px;
+            margin-left:-28%;
+            margin-top:3%;
+          }}
